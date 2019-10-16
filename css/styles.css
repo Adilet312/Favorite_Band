@@ -1,9 +1,15 @@
 .image{
   float: left;
   margin-right: 50px;
+  padding:13px;
+  background-color: blue;
 }
 .events{
   float: right;
+  border: 1px solid blue;
+  padding: 6px;
+  margin: 6px;
+  background-color: #b0c4de;
 }
 
 .col{
