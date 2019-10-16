@@ -1,0 +1,13 @@
+.image{
+  float: left;
+  margin-right: 50px;
+}
+.events{
+  float: right;
+}
+
+.col{
+  float: left;
+  width:200px;
+
+}
